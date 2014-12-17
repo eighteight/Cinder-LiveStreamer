@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DC3BA4B5-03B4-406B-BD64-3ABF142F7DE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CinderLiveStream</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>762091B6-0063-4B5D-AAD4-93E42BCF6D3E</key>
+		<string>https://github.com/eighteight/Cinder-LiveStreamer.git</string>
+		<key>BAA545CA-8693-463E-9EDC-BD7C177F073A</key>
+		<string>git://github.com/cinder/Cinder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/CinderLiveStream.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>762091B6-0063-4B5D-AAD4-93E42BCF6D3E</key>
+		<string>../../../../..</string>
+		<key>BAA545CA-8693-463E-9EDC-BD7C177F073A</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/eighteight/Cinder-LiveStreamer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAA545CA-8693-463E-9EDC-BD7C177F073A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAA545CA-8693-463E-9EDC-BD7C177F073A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cinder</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>762091B6-0063-4B5D-AAD4-93E42BCF6D3E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cinder-LiveStreamer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

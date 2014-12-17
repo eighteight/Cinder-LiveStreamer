@@ -12,7 +12,7 @@
 	<supports os="macosx" />
     
     <copyExclude>samples</copyExclude>
-	<header>src/LiveStreamer.h</header>
+	<header>src/CinderLiveStreamer.h</header>
 	<includePath>src</includePath>
 	<platform os="macosx">
 	</platform>

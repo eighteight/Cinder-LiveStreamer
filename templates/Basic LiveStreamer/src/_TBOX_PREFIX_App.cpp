@@ -3,7 +3,7 @@
 #include "cinder/gl/gl.h"
 #include "cinder/qtime/QuickTime.h"
 #include "CinderLiveStreamer.h"
-
+#define DEFAULT_STREAM "http://www.ustream.tv/channel/live-iss-stream"
 using namespace ci;
 using namespace ci::app;
 using namespace std;
@@ -38,6 +38,7 @@ void _TBOX_PREFIX_App::setup()
     }
     mWidth = getWindowWidth();
     mHeight= getWindowHeight();
+    getWindow()->setTitle( "Cinder LiveStreamer: " + (mStream == "ERROR" ? mStream : DEFAULT_STREAM));
     
 }
 
@@ -58,7 +59,6 @@ void _TBOX_PREFIX_App::draw()
     if (mSurfaceRef){
         gl::draw(gl::Texture::create(*mSurfaceRef), Rectf(0,0,mWidth,mHeight));
     }
-    gl::drawString(mStream, vec2 (5, 5));
 }
 
 CINDER_APP_NATIVE( _TBOX_PREFIX_App, RendererGl )

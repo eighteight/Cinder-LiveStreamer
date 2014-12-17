@@ -26,7 +26,7 @@
 class CinderLiveStreamer {
   public:
 	CinderLiveStreamer();
-    static std::string getStreamUrl(std::string _link);
+    static std::string getStreamUrl(std::string);
 };
 
 std::string CinderLiveStreamer::getStreamUrl(const std::string pageUrl) //_link is the complete url, just like above.
