@@ -1,0 +1,10 @@
+#!/usr/local/opt/python/bin/python2.7
+# EASY-INSTALL-ENTRY-SCRIPT: 'livestreamer==1.11.1','console_scripts','livestreamer'
+__requires__ = 'livestreamer==1.11.1'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('livestreamer==1.11.1', 'console_scripts', 'livestreamer')()
+    )

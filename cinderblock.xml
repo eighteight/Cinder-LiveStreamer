@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="Cinder-LiveStreamer"
+	id="us.onewaytheater.livestreamer"
+	git="git://github.com/eighteight/Cinder-LiveStreamer"
+	author="Cinder Project"
+	license="Apache 2.0, LGPL"
+	library="https://pypi.python.org/pypi/livestreamer"
+	summary="Wraps livestreamer for Cinder."
+	>
+	<supports os="macosx" />
+    
+    <copyExclude>samples</copyExclude>
+	<header>src/LiveStreamer.h</header>
+	<includePath>src</includePath>
+	<platform os="macosx">
+	</platform>
+</block>
+<template>templates/Basic LiveStreamer/template.xml</template>
+</cinder>
