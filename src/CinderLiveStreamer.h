@@ -38,7 +38,6 @@ std::string CinderLiveStreamer::getStreamUrl(const std::string pageUrl)
     }
     pclose(pipe);
     result.erase(remove(result.begin(), result.end(), '\n'), result.end());
-    std::string dlStream = result;
     
-    return ( dlStream);
+    return ( result);
 }
