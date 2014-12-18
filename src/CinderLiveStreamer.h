@@ -18,18 +18,13 @@
  along with Cinder-LiveStream.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-
-
-
-#include "cinder/app/App.h"
-
 class CinderLiveStreamer {
   public:
 	CinderLiveStreamer();
     static std::string getStreamUrl(std::string);
 };
 
-std::string CinderLiveStreamer::getStreamUrl(const std::string pageUrl) //_link is the complete url, just like above.
+std::string CinderLiveStreamer::getStreamUrl(const std::string pageUrl)
 {
     std::string lvstrmr = "/usr/local/bin/livestreamer";
     std::string cmd = lvstrmr + " " + pageUrl + " best --stream-url";
