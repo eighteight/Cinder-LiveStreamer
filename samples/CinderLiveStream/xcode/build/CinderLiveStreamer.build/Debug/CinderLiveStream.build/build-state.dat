@@ -435,8 +435,8 @@ t1418843338
 s459637
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp
-c0000000054A42C390000000000000672
-t1420045369
+c0000000054A42F990000000000000672
+t1420046233
 s1650
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/CinderLiveStream_Prefix.pch
@@ -455,11 +455,11 @@ t1418855896
 s189
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o
-t1420045371
-s2059948
+t1420046235
+s2061036
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app
-t1420043942
+t1420046217
 s102
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/Info.plist
@@ -467,8 +467,8 @@ t1418843355
 s1508
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream
-t1420045377
-s5492852
+t1420046240
+s5492660
 
 N/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/PkgInfo
 t1418843355
@@ -5115,14 +5115,14 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6f8069b96354ba41^083a6ab96354ba41^---0#1#1#--18"Check dependencies36"CFE16769-570A-4859-A6D8-2670A91AEE89-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa262dc196754ba41^d717dd196754ba41^---0#1#1#--18"Check dependencies36"D117A26F-DDDE-427D-9C11-6195FC7ED628-
 
 CCompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp-A4F5E8AACCDDD6A0.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s441738169.439759
-e441738171.287963
+s441739033.879162
+e441739035.513115
 r1
 xCompileC
 xbuild/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o
@@ -5138,8 +5138,8 @@ d/Users/vgusev/repos/Cinder/include/cinder/qtime/QuickTime.h
 d/Users/vgusev/repos/Cinder/include/cinder/qtime/QuickTimeImplAvf.h
 d/Users/vgusev/repos/Cinder/include/cinder/gl/Texture.h
 d/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/src/CinderLiveStreamer.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp281"CompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler48c070b96354ba41^56b849bb6354ba41^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp0000000000000000^3769"CompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-generated-files.hmap -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-own-target-headers.hmap -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-all-target-headers.hmap -iquote /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-project-headers.hmap -iquote../../../../../include -iquote../include -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/include -I../../../../../boost -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/DerivedSources/x86_64 -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/DerivedSources -F/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -include /var/folders/l3/734tpr_94d93pygw0ffk9lyrccwcl_/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CinderLiveStream_Prefix-dlcjqcxdqvgfrueakqgezglwqowb/CinderLiveStream_Prefix.pch -MMD -MT dependencies -MF /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.d --serialize-diagnostics /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.dia -c /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp -o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o36"9A129D1E-2468-4E69-9612-FB9EEF7CFA6E-
-bBA90E583-5F8A-4EDC-BA33-63B590DF91F3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp281"CompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler0325e1196754ba41^c45b831b6754ba41^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp0000000000000000^3769"CompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-generated-files.hmap -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-own-target-headers.hmap -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-all-target-headers.hmap -iquote /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/CinderLiveStream-project-headers.hmap -iquote../../../../../include -iquote../include -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/include -I../../../../../boost -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/DerivedSources/x86_64 -I/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/DerivedSources -F/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -include /var/folders/l3/734tpr_94d93pygw0ffk9lyrccwcl_/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CinderLiveStream_Prefix-dlcjqcxdqvgfrueakqgezglwqowb/CinderLiveStream_Prefix.pch -MMD -MT dependencies -MF /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.d --serialize-diagnostics /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.dia -c /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/src/CinderLiveStreamApp.cpp -o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStreamApp.o36"BADE044F-F983-4268-BD89-557C84FD241C-
+b451FD628-35F1-4226-8E19-154FBA043306
 
 CCompileC build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/_TBOX_PREFIX_App.o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/templates/Basic\ LiveStreamer/src/_TBOX_PREFIX_App.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 r0
@@ -5226,8 +5226,8 @@ CCpResource build/Debug/CinderLiveStream.app build/Debug/CinderLiveStream.app/Co
 r0
 
 CLd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream normal x86_64
-s441738171.298852
-e441738177.358215
+s441739035.523649
+e441739040.948821
 r1
 xLd
 x/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream
@@ -5250,6 +5250,9 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AVFoundation.framework/Versions/A/Resources/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -5284,9 +5287,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
@@ -5313,8 +5313,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream81"Ld build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream normal x86_64cd924cbb6354ba41^70b45bc16354ba41^---0#0#1#--1525"Ld build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream normal x86_64    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    export MACOSX_DEPLOYMENT_TARGET=10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -F/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -filelist /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStream.LinkFileList -mmacosx-version-min=10.8 -dead_strip ../../../../../lib/libcinder_d.a -stdlib=libc++ -framework AVFoundation -framework CoreMedia -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStream_dependency_info.dat -o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream36"749F5D78-6638-496E-A923-E4F4E7393872-
-bBA90E583-5F8A-4EDC-BA33-63B590DF91F3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream81"Ld build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream normal x86_64c91d861b6754ba41^ebe6f2206754ba41^---0#0#1#--1525"Ld build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream normal x86_64    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    export MACOSX_DEPLOYMENT_TARGET=10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -F/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug -filelist /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStream.LinkFileList -mmacosx-version-min=10.8 -dead_strip ../../../../../lib/libcinder_d.a -stdlib=libc++ -framework AVFoundation -framework CoreMedia -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/CinderLiveStreamer.build/Debug/CinderLiveStream.build/Objects-normal/x86_64/CinderLiveStream_dependency_info.dat -o /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/MacOS/CinderLiveStream36"8644D10C-B2F4-4D11-BAEE-2A5EC774F28B-
+b451FD628-35F1-4226-8E19-154FBA043306
 
 CProcessInfoPlistFile /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app/Contents/Info.plist /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/Info.plist
 r0
@@ -6256,11 +6256,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precomp
 bF2A40FE7-F985-4C34-9EE4-6A116453D4FD
 
 CTouch /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app
-s441738177.366628
-e441738177.371981
+s441739040.957798
+e441739040.963174
 r1
 xTouch
 x/Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app38"Touch build/Debug/CinderLiveStream.app53e75dc16354ba41^cd3a5fc16354ba41^---0#0#1#--271"Touch build/Debug/CinderLiveStream.app    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    /usr/bin/touch -c /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app36"B898CE39-9EB4-4B36-AE07-F8F6C6AEF3C0-
-bBA90E583-5F8A-4EDC-BA33-63B590DF91F3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app38"Touch build/Debug/CinderLiveStream.appc93df5206754ba41^5c93f6206754ba41^---0#0#1#--271"Touch build/Debug/CinderLiveStream.app    cd /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode    /usr/bin/touch -c /Users/vgusev/repos/Cinder/blocks/Cinder-LiveStreamer/samples/CinderLiveStream/xcode/build/Debug/CinderLiveStream.app36"2D2F6D72-4E85-4B22-86B3-50DC9429632F-
+b451FD628-35F1-4226-8E19-154FBA043306
 

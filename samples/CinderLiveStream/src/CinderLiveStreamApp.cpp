@@ -23,7 +23,7 @@ class CinderLiveStreamApp : public AppNative {
     qtime::MovieSurfaceRef	mMovieRef;
     SurfaceRef				mSurfaceRef;
     int mWidth, mHeight;
-    string mStream;
+
 };
 
 void CinderLiveStreamApp::resize(){
@@ -33,14 +33,16 @@ void CinderLiveStreamApp::resize(){
 
 void CinderLiveStreamApp::setup()
 {
-    string mStream = CinderLiveStreamer::getStreamUrl("http://www.ustream.tv/channel/iss-hdev-payload");
+    string mUrl = "http://www.ustream.tv/channel/iss-hdev-payload";
+    
+    string mStream = CinderLiveStreamer::getStreamUrl(mUrl);
     if (mStream != "ERROR") {
         mMovieRef = cinder::qtime::MovieSurface::create( Url(mStream) );
         mMovieRef->play();
     }
     mWidth = getWindowWidth();
     mHeight= getWindowHeight();
-    getWindow()->setTitle( "Cinder LiveStreamer: " + (mStream == "ERROR" ? mStream : DEFAULT_STREAM));
+    getWindow()->setTitle( "Cinder LiveStreamer: " + (mStream == "ERROR" ? mStream : mUrl));
 
 }
 
