@@ -33,7 +33,7 @@ void CinderLiveStreamApp::resize(){
 
 void CinderLiveStreamApp::setup()
 {
-    string mStream = CinderLiveStreamer::getStreamUrl(DEFAULT_STREAM);
+    string mStream = CinderLiveStreamer::getStreamUrl("http://www.ustream.tv/channel/iss-hdev-payload");
     if (mStream != "ERROR") {
         mMovieRef = cinder::qtime::MovieSurface::create( Url(mStream) );
         mMovieRef->play();
