@@ -36,6 +36,7 @@ void CinderLiveStreamApp::setup()
     string mStream = CinderLiveStreamer::getStreamUrl(DEFAULT_STREAM);
     if (mStream != "ERROR") {
         mMovieRef = cinder::qtime::MovieSurface::create( Url(mStream) );
+        mMovieRef->play();
     }
     mWidth = getWindowWidth();
     mHeight= getWindowHeight();

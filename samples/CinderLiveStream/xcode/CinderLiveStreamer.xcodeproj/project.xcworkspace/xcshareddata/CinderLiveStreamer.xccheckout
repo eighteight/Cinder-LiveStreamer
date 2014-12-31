@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C152ED2D-3E2F-49A5-B58B-232C8F1E9BA4</string>
+	<string>58A4AE8F-FEA5-463A-81D1-173607F3B03F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CinderLiveStreamer</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -21,7 +21,7 @@
 		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/eighteight/Cinder-LiveStreamer.git</string>
+	<string>git://github.com/cinder/Cinder.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
