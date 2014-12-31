@@ -12,14 +12,11 @@ using namespace std;
 class CinderLiveStreamApp : public AppNative {
   public:
 	void setup() override;
-	void mouseDown( MouseEvent event ) override;
 	void update() override;
 	void draw() override;
     void resize() override;
   
   private:
-    string getStreamUrl(string _link);
-    
     qtime::MovieSurfaceRef	mMovieRef;
     SurfaceRef				mSurfaceRef;
     int mWidth, mHeight;
@@ -44,10 +41,6 @@ void CinderLiveStreamApp::setup()
     mHeight= getWindowHeight();
     getWindow()->setTitle( "Cinder LiveStreamer: " + (mStream == "ERROR" ? mStream : mUrl));
 
-}
-
-void CinderLiveStreamApp::mouseDown( MouseEvent event )
-{
 }
 
 void CinderLiveStreamApp::update()
